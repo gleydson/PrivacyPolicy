@@ -1,11 +1,12 @@
 # Política de Privacidade
 
-Nós estamos comprometidos com a proteção da sua privacidade. Antes de nos algumas de suas informações, por favor leia atentamente as seguintes informações.
+Nós estamos comprometidos com a proteção da sua privacidade. Antes de nos fornecer algumas de suas informações, por favor leia atentamente as seguintes informações.
 
 ## Coleta de Informações e Uso
 
-Serão necessárias a coleta de algumas informações pessoais que servirão apenas para uso offline. 
+Serão necessárias a coleta de algumas informações pessoais da criança que servirão apenas para uso offline.
+Serão realizadas apenas algumas coletas de informações estatísticas de uso da aplicação apenas para garantir a qualidade da mesma. 
 
-## Acesso e Questões
+## Acesso e Questões e Contato
 
-Estamos dispostos, mediante solicitação escrita sua, a fornecer detalhes de todas as informações pessoais que você nos forneceu (pode ser cobrada uma pequena taxa) e/ou deixar de fazer uso de suas informações pessoais para os fins descritos acima. Podemos exigir prova de sua identidade antes de divulgar tais informações. Isto tem o objetivo de garantir a segurança de suas informações. Se qualquer informação que você nos forneceu tornar-se imprecisa ou fora da data, ou se você tiver alguma dúvida sobre esta declaração de privacidade, entre em contato conosco no gleydsonsr@gmail.com.
+Estamos dispostos a fornecer qualquer informação ou prestar qualquer ajuda para sanar qualquer dúvida sobre sobre a aplicação para isso você poderá entrar em contato conosco através do e-mail *gleydsonsr@gmail.com*.
