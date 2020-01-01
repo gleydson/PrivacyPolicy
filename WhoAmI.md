@@ -9,4 +9,4 @@ Serão realizadas apenas algumas coletas de informações estatísticas de uso d
 
 ## Acesso e Questões e Contato
 
-Estamos dispostos a fornecer qualquer informação ou prestar qualquer ajuda para sanar qualquer dúvida sobre sobre a aplicação para isso você poderá entrar em contato conosco através do e-mail *gleydsonsr@gmail.com*.
+Estamos dispostos a fornecer qualquer informação ou prestar qualquer ajuda para sanar qualquer dúvida sobre sobre a aplicação para isso você poderá entrar em contato conosco através do e-mail *gleydson.sr@gmail.com*.
